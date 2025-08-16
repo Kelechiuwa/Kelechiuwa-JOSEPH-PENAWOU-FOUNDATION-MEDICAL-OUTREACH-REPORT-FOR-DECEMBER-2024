@@ -1,0 +1,2 @@
+# Kelechiuwa-JOSEPH-PENAWOU-FOUNDATION-MEDICAL-OUTREACH-REPORT-FOR-DECEMBER-2024
+As the Data Analyst on the team, I was responsible for planning, managing, cleaning, analyzing, and visualizing all data collected during the outreach. My primary focus was to transform raw field data into actionable insights that informed decision-making for the foundation’s organizers, medical personnel, and stakeholders.
